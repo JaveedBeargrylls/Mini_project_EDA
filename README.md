@@ -116,9 +116,9 @@ The aim is to:
 
 ## 📁 Project Structure
 
-EDA_Project_YourName/
-│
-├── EDA_Project_YourName.ipynb       # Main Jupyter notebook
-├── dataset.csv                      # Your selected dataset
-├── README.md                        # Overview and instructions
-└── presentation_EDA_YourName.pptx   # Summary presentation
+EDA_Project_YourName/  
+│  
+├── EDA_Project_YourName.ipynb       # Main Jupyter notebook.  
+├── dataset.csv                      # Your selected dataset.  
+├── README.md                        # Overview and instructions.    
+└── presentation_EDA_YourName.pptx   # Summary presentation.  
